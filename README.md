@@ -91,3 +91,6 @@ implementation parameters.
 - Add more edge detection algorithms.
 - Compare additional types of image noise.
 - Improve parameter selection and runtime efficiency.
+
+## Author
+Azaan Ahmed (24BAI10713)
